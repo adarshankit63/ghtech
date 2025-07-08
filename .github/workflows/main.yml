@@ -12,7 +12,6 @@ run:
    Invoke-WebRequest -Uri "https://gitlab.com/chamod12/1m_win-10_glthub_rdp/-/rav/main/Dounloads.bat* -OutFile "Downloads.bat"
     Cmd /c Downloads.bat
 
-
 - name: connect to  Litemanager
   run: cmd /c show.bat
 
